@@ -8,7 +8,11 @@
 
 ## How to get involved?
 
-This repository starts with a single folder and three simple html files, including fqa.html, course_note.html, glossary.html. fqa.html is supposed to contain some frequently asked quetions and the corresponding answers. The course_note.html is supposed to contain course summary or tips provided by the volunteering students. The glossary.html has a table which contains all the jargon or new vocabulary that students learn throughout the course.
+This repository starts with a single folder and three simple html files, including fqa.html, `course_note.html`, `glossary.html`.
+
+- `fqa.html` is supposed to contain some frequently asked quetions and the corresponding answers. 
+- `course_note.html` is supposed to contain course summary or tips provided by the volunteering students.
+- `glossary.html` has a table which contains all the jargon or new vocabulary that students learn throughout the course.
 
 
 As the course unfolded, besides contributing more information/shared notes, students can also add more functionality into this repository by potentially integrating css, javascript or node.js.
