@@ -1,0 +1,17 @@
+/*
+ * This file contains style information, which is used to modify the default
+ * look & feel of our tables. We will start covering stylesheets in our next lab!
+ */
+
+table {
+    border-collapse: collapse;
+}
+
+ table th, table td {
+     border: 1px solid black;
+     padding: 3px;
+ }
+
+ table th {
+     background-color: #EFEFEF;
+ }
